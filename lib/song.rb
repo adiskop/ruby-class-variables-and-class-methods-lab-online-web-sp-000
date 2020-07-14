@@ -18,7 +18,7 @@ end
 
 def artists
   @@artists
-  @@artists <<artist
+
 end
 
 end
