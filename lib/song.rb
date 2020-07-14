@@ -27,6 +27,8 @@ def self.genres
   @@genres.uniq
 end
 
+
+
 def self.genre_count
    genre_count = {}
    @@genres.each do |genre|
@@ -38,9 +40,4 @@ def self.genre_count
    end
    genre_count
  end
-end
-
-
-
-
 end
