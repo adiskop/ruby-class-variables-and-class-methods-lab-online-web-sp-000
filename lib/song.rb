@@ -17,7 +17,7 @@ end
 
 def artists
   @@artists
-  artists = artists
+  @@artists = artists
 end
 
 end
