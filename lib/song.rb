@@ -19,8 +19,8 @@ def self.count
 end
 
 def artists
-  @@artists
-[artist]
+  [@@artists]
+
 end
 
 
