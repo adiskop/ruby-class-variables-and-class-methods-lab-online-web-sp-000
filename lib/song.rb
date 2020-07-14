@@ -20,7 +20,7 @@ end
 
 def artists
   @@artists
-
+[artist]
 end
 
 
