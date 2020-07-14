@@ -17,7 +17,7 @@ end
 
 def artists
   @@artists
-  artists << artist
+  artists = artists
 end
 
 end
